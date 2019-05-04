@@ -24,6 +24,8 @@ export default {
     padding: 0;
     width: 100%;
     height: 100%;
+    background-image: url("https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=590506442,2441509563&fm=26&gp=0.jpg");
+    //background-repeat: no-repeat;
   }
   #app {
     position: absolute;

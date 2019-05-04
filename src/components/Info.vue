@@ -60,7 +60,7 @@
                 email: "zoueature@gmail.com",
                 emailTo: "mailto:zoueature@gmail.com",
                 github: "https://github.com/eaturezou",
-                edu: "集美大学",
+                edu: "某某大学",
                 profession: "网络工程",
                 graduationDate: "2017-07",
                 skills: [
